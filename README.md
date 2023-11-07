@@ -18,6 +18,7 @@ The user can use **create project** button to creat a project representing the h
 ![new project step 4](screenshots/client-newProject4.png)
 
 Now the offer is visible by companies/agencies of construction and can be chosen, lets move on to the company view:
+
 **to be continued**
 
 
