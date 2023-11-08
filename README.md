@@ -21,7 +21,7 @@ Now the project is created is visible by companies/agencies of construction whic
 
 ![created project](screenshots/4client-createdProject.png)
 
-![](screenshots/6company-dashboard.png
+![](screenshots/6company-dashboard.png)
 
 Lets now move on to the company view and try to send an offer.
 
