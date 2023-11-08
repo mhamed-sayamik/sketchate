@@ -28,7 +28,7 @@ Lets now move on to the company view and try to send an offer.
 ![company dashoboard](screenshots/6company-dashboard.png)
 in the dashboard we have projects which our company involved in, now lets add the newly created project, for that we will move to the projects section in which agencies can find projects open for submissions:
 ![company projects](screenshots/7company-projects.png)
-Its now in our dashboard and we can view it's details:
+After buying the project we can find it in our dashboard and we can view it's details:
 ![](screenshots/8company-dashboard.png)
 ![](screenshots/9company-projectDetails.png)
 Lets say we finished our sketching this fast and now we will send the offer to our lucky client :
